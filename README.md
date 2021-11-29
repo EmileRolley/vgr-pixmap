@@ -10,9 +10,9 @@
    <!--  <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a> -->
     <br />
    <!--  <a href="https://github.com/github_username/repo_name">View Demo</a> -->
-    <a href="https://github.com/EmileRolley/sustainable-computing-resources/issues">Report Bug</a>
+    <a href="https://github.com/EmileRolley/vgr-pixmap/issues">Report Bug</a>
     ·
-    <a href="https://github.com/EmileRolley/sustainable-computing-resources/pulls">Contribute</a>
+    <a href="https://github.com/EmileRolley/vgr-pixmap/pulls">Contribute</a>
   </p>
 </p>
 
