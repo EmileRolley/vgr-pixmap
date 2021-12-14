@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://cdn-icons.flaticon.com/png/512/1812/premium/1812450.png?token=exp=1638184084~hmac=210f8a8e67a63fef0d79bd2861d0aba9" alt="Logo" width="100" height="100">
+ <!-- <img src="https://cdn-icons.flaticon.com/png/512/1812/premium/1812450.png?token=exp=1638184084~hmac=210f8a8e67a63fef0d79bd2861d0aba9" alt="Logo" width="100" height="100">-->
   <h3 align="center">
-	Vgr_pixmap
+	  <code>Vgr_pixmap</code>
   </h3>
 
   <p align="center">
@@ -45,5 +45,5 @@ Test examples can be found [here](https://github.com/EmileRolley/vgr-pixmap-test
 
 ## Sponsors
 
-The [OCaml Software Foundation](http://ocaml-sf.org/) has sponsored the
+The [@OCaml Software Foundation](http://ocaml-sf.org/) has sponsored the
 development of this module from July to September 2021.
