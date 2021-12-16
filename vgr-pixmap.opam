@@ -1,0 +1,21 @@
+opam-version: "2.0"
+name: "vgr-pixmap"
+version: "~dev"
+synopsis: "Vg renderer in pure OCaml for raster outputs"
+maintainer: "Emile Rolley <emile.rolley@tuta.io>"
+authors: "Emile Rolley <emile.rolley@tuta.io>"
+license: "MIT"
+homepage: "https://github.com/EmileRolley/vgr-pixmap"
+bug-reports: "https://github.com/EmileRolley/vgr-pixmap/issues"
+depends: [
+  "vg"
+  "gg"
+]
+build: [
+  ["dune" "build" "-p" name "-j" jobs]
+]
+install: ["dune" "install"]
+dev-repo: "git+https://"
+url {
+  src: "git+file:///home/emile/Projects/OCSF/vgr-pixmap#feat-vgr-pixmap"
+}
