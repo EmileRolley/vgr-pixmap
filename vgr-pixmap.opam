@@ -1,6 +1,6 @@
 opam-version: "2.0"
 name: "vgr-pixmap"
-version: "~dev"
+version: "0.1.0"
 synopsis: "Vg renderer in pure OCaml for raster outputs"
 maintainer: "Emile Rolley <emile.rolley@tuta.io>"
 authors: "Emile Rolley <emile.rolley@tuta.io>"
@@ -12,6 +12,7 @@ depends: [
   "gg"
 ]
 build: [
+  ["dune" "subst"] {pinned}
   ["dune" "build" "-p" name "-j" jobs]
 ]
 install: ["dune" "install"]

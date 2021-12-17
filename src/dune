@@ -1,0 +1,4 @@
+(library
+  (name vgr_pixmap)
+  (public_name vgr-pixmap)
+  (libraries vg gg))
