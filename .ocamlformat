@@ -1,0 +1,6 @@
+version = 0.20.1
+profile = janestreet
+margin = 90
+break-fun-decl = fit-or-vertical
+break-fun-sig = fit-or-vertical
+sequence-blank-line = preserve-one
